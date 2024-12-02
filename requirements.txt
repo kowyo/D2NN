@@ -1,0 +1,5 @@
+tensorflow
+cvnn
+tensorflow_datasets
+pillow
+ipywidgets
