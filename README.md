@@ -1,2 +1,6 @@
 # D2NN
-历史版本的代码仓库在：https://github.com/tutuna/Diffractive-Deep-Neural-Networks/tree/main
+
+"All-optical machine learning using diffractive deep neural networks" 的 TensorFlow 实现。
+
+- 更新弃用的 API
+- 使用现代化的 Python 开发工具
