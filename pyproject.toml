@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "d2nn"
+version = "0.1.0"
+description = ""
+authors = ["Kowyo <110339237+kowyo@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+tensorflow = "^2.18.0"
+pillow = "^11.0.0"
+matplotlib = "^3.9.3"
+ipywidgets = "^8.1.5"
+tensorflow-datasets = "^4.9.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
